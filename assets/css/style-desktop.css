@@ -1,0 +1,172 @@
+@media (min-width: 1280px) {
+
+    h1 {
+        font-size: 5.5vw;
+    }
+
+    h2 {
+        font-size: 3.8vw;
+    }
+
+    h3 {
+        font-size: 2vw;
+    }
+
+    h4 {
+        font-size: 1.8vw;
+    }
+    
+    /* header section start */
+    /* header section end */
+
+
+
+    /* movie section start */
+    /* movie section end */
+
+
+    
+    /* course section start */
+    /* course section end */
+
+    
+
+    /* format section start */
+    /* format section end */
+
+
+    /* knowladge section start */
+    /* knowladge section end */
+
+
+    
+    /* course-program section start */
+    /* course-program section end */
+
+
+
+    /* course-feedback section start */
+
+    .course-feedback-container {
+        background-color: #E5E5E5;
+        padding-left: 8vw;
+        padding-top: 6.3vw;
+        padding-bottom: 7.7vw;
+    }
+
+    .course-feedback-header {
+        margin-bottom: 4vw;
+    }
+
+    .cf-main-box {
+        background-color: #FFFFFF;
+        border-radius: 2vw;
+        width: 55vw;
+        height: 31.5vw;
+        padding-left: 3vw;
+        box-shadow: 0.465972px 0.465972px 9.31944px rgba(0, 0, 0, 0.25);
+    }
+
+    .cf-main-box-content {
+        width: 48vw;
+        padding-top: 2.7vw;
+        margin-bottom: 2vw;
+    }
+
+    .cf-main-box-content p {
+        font-size: 1.4vw;
+        line-height: 150%;
+        color: #000000;
+    }
+
+    .cf-main-box-profile {
+        display: flex;
+    }
+
+    .cf-main-box-profile-avatar img {
+        width: 13vw;
+        margin-right: 2vw;
+    }
+
+    .cf-main-box-profile-info h3 {
+        padding-top: 2.4vw;
+        margin-bottom: 2vw;
+        color: #000000;
+    }
+
+    .cf-main-box-profile-info img {
+        width: 2.2vw;
+    }
+
+    /* course-feedback section end */
+
+
+    
+    /* course-date section start */
+    /* course-date section end */
+
+
+    
+    /* footer section start */
+
+    .footer-container {
+        background-color: #000000;
+        padding-left: 8vw;
+        padding-top: 7vw;
+        padding-bottom: 5vw;
+    }
+
+    .footer-top {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 10vw;
+    }
+
+    .footer-logo-social .logo {
+        margin-bottom: 2vw;
+    }
+
+    .footer-logo-social .logo img {
+        width: 8vw;
+    }
+
+
+    .footer-logo-social .social a img {
+        width: 2.3vw;
+        margin-right: 1.7vw;
+    }
+
+    .contact {
+        padding-right: 13vw;
+    }
+
+    .contact p img {
+        width: 1.8vw;
+        margin-right: 2vw;
+    }
+
+    .contact p {
+        padding-bottom: 1.6vw;
+
+        font-style: normal;
+        font-weight: normal;
+        font-size: 1.6vw;
+        line-height: 101.38%;
+
+        color: #FFFFFF;
+
+    }
+
+    .corp {
+        font-style: normal;
+        font-weight: normal;
+        font-size: 1.2vw;
+        line-height: 101.38%;
+
+        color: #FFFFFF;
+    }
+
+
+    /* footer section end */
+
+}
