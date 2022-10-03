@@ -17,10 +17,109 @@
     }
     
     /* header section start */
+    .header-container {
+        padding-top: 2.5vw;
+        padding-left: 8vw;
+        margin-bottom: 2vw;
+    }
+
+    .header-logo {
+        margin-bottom: 7vw;
+    }
+
+    .header-logo img {
+        width: 8vw;
+    }
+
+    .header-info {
+        display: flex;
+    }
+
+    .header-info-content {
+        margin-right: 3vw;
+    }
+
+    .header-info-content p {
+        font-size: 1.5vw;
+    }
+
+
+    .header-info-content img {
+        width: 1.7vw;
+        margin-right: 1vw;
+    }
+
     /* header section end */
 
 
     /* movie section start */
+    .movie {
+        margin-bottom: 8vw;
+    }
+
+    .movie-container {
+        padding-left: 8vw;
+    }
+
+    .movie-header {
+        display: flex;
+        margin-bottom: 6vw;
+    }
+
+    .movie-header-content {
+        margin-right: 10vw;
+    }
+
+    .movie-header-content h1 {
+        width: 44vw;
+        margin-bottom: 3vw;
+    }
+
+    .movie-header-content p {
+        font-size: 1.5vw;
+        width: 31vw;
+    }
+
+    .movie-header-img {
+        margin-right: 17vw;
+    }
+
+    .movie-header-img img {
+        width: 22vw;
+    }
+
+    .movie-main {
+        display: flex;
+        justify-content: center;
+        padding-right: 15vw;
+    }
+
+    .movie-main-comment {
+        width: 34vw;
+        height: 14vw;
+        color: #FFFFFF;
+        background: #1E4681;
+        border-radius: 0.3vw;
+
+    }
+
+    .content {
+        font-family: Roboto Slab;
+        font-style: normal;
+        font-weight: normal;
+        width: 32vw;
+        padding: 1.4vw 1.5vw 0 2vw;
+        font-size: 1.7vw;
+    }
+
+    .author {
+        font-size: 1.4vw;
+        line-height: 130%;
+        padding-right: 1.2vw;
+        margin-top: 0.4vw;
+
+        text-align: right;
+    }
     /* movie section end */
 
     
